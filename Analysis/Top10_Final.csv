@@ -1,0 +1,11 @@
+Ligand,Chemical_Name,SMILES,Affinity
+Ligand_0241,Bendroflumethiazide,NS(=O)(=O)c1cc2c(cc1C(F)(F)F)NC(Cc1ccccc1)NS2(=O)=O,-8.188
+Ligand_0169,hyocholic_acid,CC(CCC(=O)O)C1CCC2C3C(O)C(O)C4CC(O)CCC4(C)C3CCC12C,-7.763
+Ligand_0256,Glyburide,COc1ccc(Cl)cc1C(=O)NCCc1ccc(S(=O)(=O)NC(=O)NC2CCCCC2)cc1,-7.679
+Ligand_0022,3-methylcholanthrene,Cc1ccc2cc3c(ccc4ccccc43)c3c2c1CC3,-7.507
+Ligand_0159,fluridone,Cn1cc(-c2ccccc2)c(=O)c(-c2cccc(C(F)(F)F)c2)c1,-7.476
+Ligand_0240,Morin,O=c1c(O)c(-c2ccc(O)cc2O)oc2cc(O)cc(O)c12,-7.338
+Ligand_0257,Diosgenin,CC1CCC2(OC1)OC1CC3C4CC=C5CC(O)CCC5(C)C4CCC3(C)C1C2C,-7.211
+Ligand_0244,Hematein,O=C1C=C2CC3(O)COc4c(ccc(O)c4O)C3=C2C=C1O,-7.173
+Ligand_0143,cycloheximide,CC1CC(C)C(=O)C(C(O)CC2CC(=O)NC(=O)C2)C1,-7.118
+Ligand_0021,6-aminochrysene,Nc1cc2c3ccccc3ccc2c2ccccc12,-7.052
