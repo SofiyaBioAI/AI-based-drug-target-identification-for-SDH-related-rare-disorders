@@ -1,0 +1,6 @@
+pandas
+numpy
+rdkit
+openbabel
+autodock-vina
+tqdm
