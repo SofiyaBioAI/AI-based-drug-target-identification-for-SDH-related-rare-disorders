@@ -1,0 +1,495 @@
+MODEL 1
+REMARK VINA RESULT:    -4.247      0.000      0.000
+REMARK INTER + INTRA:          -6.849
+REMARK INTER:                  -6.358
+REMARK INTRA:                  -0.491
+REMARK UNBOUND:                -0.491
+REMARK  Name = C:\Users\sofiya chavarekar\OneDrive\Assignment- Module 1\PROJECT(AI-based drug target identification for SDH-related rare disorders)\Data\Ligands\PDB\Ligand_0067.pdb
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  C_3
+REMARK    3  A    between atoms: C_3  and  C_4
+REMARK    4  A    between atoms: C_4  and  C_5
+REMARK    5  A    between atoms: C_5  and  C_6
+REMARK    6  A    between atoms: C_6  and  C_7
+REMARK    7  A    between atoms: C_7  and  C_8
+REMARK    8  A    between atoms: C_8  and  C_9
+REMARK    9  A    between atoms: C_9  and  C_10
+REMARK   10  A    between atoms: C_10  and  O_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -12.626   6.919  25.795  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C   UNL     1     -13.967   6.324  25.350  0.00  0.00    +0.000 C 
+BRANCH   2   3
+ATOM      3  C   UNL     1     -14.828   5.907  26.545  0.00  0.00    +0.000 C 
+BRANCH   3   4
+ATOM      4  C   UNL     1     -14.987   4.384  26.620  0.00  0.00    +0.000 C 
+BRANCH   4   6
+ATOM      5  C   UNL     1     -13.606   2.658  27.839  0.00  0.00    +0.000 C 
+ATOM      6  C   UNL     1     -14.554   3.841  27.982  0.00  0.00    +0.000 C 
+ENDBRANCH   4   6
+ENDBRANCH   3   4
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1   7
+ATOM      7  C   UNL     1     -11.712   5.851  26.405  0.00  0.00    +0.000 C 
+BRANCH   7   8
+ATOM      8  C   UNL     1     -10.564   5.482  25.459  0.00  0.00    +0.000 C 
+BRANCH   8   9
+ATOM      9  C   UNL     1      -9.710   4.349  26.029  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  C   UNL     1      -9.314   3.342  24.955  0.00  0.00    +0.000 C 
+BRANCH  10  11
+ATOM     11  O   UNL     1      -8.640   4.006  23.894  0.00  0.00    +0.000 OA
+ATOM     12  H   UNL     1      -7.690   4.003  24.103  0.00  0.00    +0.000 HD
+ENDBRANCH  10  11
+ENDBRANCH   9  10
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 9
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:    -4.028      3.223      5.213
+REMARK INTER + INTRA:          -6.521
+REMARK INTER:                  -6.229
+REMARK INTRA:                  -0.292
+REMARK UNBOUND:                -0.491
+REMARK  Name = C:\Users\sofiya chavarekar\OneDrive\Assignment- Module 1\PROJECT(AI-based drug target identification for SDH-related rare disorders)\Data\Ligands\PDB\Ligand_0067.pdb
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  C_3
+REMARK    3  A    between atoms: C_3  and  C_4
+REMARK    4  A    between atoms: C_4  and  C_5
+REMARK    5  A    between atoms: C_5  and  C_6
+REMARK    6  A    between atoms: C_6  and  C_7
+REMARK    7  A    between atoms: C_7  and  C_8
+REMARK    8  A    between atoms: C_8  and  C_9
+REMARK    9  A    between atoms: C_9  and  C_10
+REMARK   10  A    between atoms: C_10  and  O_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -14.597   3.587  27.804  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C   UNL     1     -14.804   4.030  26.352  0.00  0.00    +0.000 C 
+BRANCH   2   3
+ATOM      3  C   UNL     1     -14.359   5.479  26.131  0.00  0.00    +0.000 C 
+BRANCH   3   4
+ATOM      4  C   UNL     1     -13.016   5.765  26.811  0.00  0.00    +0.000 C 
+BRANCH   4   6
+ATOM      5  C   UNL     1     -10.689   5.243  25.981  0.00  0.00    +0.000 C 
+ATOM      6  C   UNL     1     -11.930   6.104  25.788  0.00  0.00    +0.000 C 
+ENDBRANCH   4   6
+ENDBRANCH   3   4
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1   7
+ATOM      7  C   UNL     1     -13.495   2.530  27.920  0.00  0.00    +0.000 C 
+BRANCH   7   8
+ATOM      8  C   UNL     1     -14.032   1.212  28.488  0.00  0.00    +0.000 C 
+BRANCH   8   9
+ATOM      9  C   UNL     1     -12.916   0.183  28.669  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  C   UNL     1     -13.233  -0.809  29.782  0.00  0.00    +0.000 C 
+BRANCH  10  11
+ATOM     11  O   UNL     1     -12.479  -0.490  30.944  0.00  0.00    +0.000 OA
+ATOM     12  H   UNL     1     -11.568  -0.304  30.661  0.00  0.00    +0.000 HD
+ENDBRANCH  10  11
+ENDBRANCH   9  10
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 9
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:    -3.986      2.555      4.847
+REMARK INTER + INTRA:          -6.457
+REMARK INTER:                  -6.037
+REMARK INTRA:                  -0.420
+REMARK UNBOUND:                -0.491
+REMARK  Name = C:\Users\sofiya chavarekar\OneDrive\Assignment- Module 1\PROJECT(AI-based drug target identification for SDH-related rare disorders)\Data\Ligands\PDB\Ligand_0067.pdb
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  C_3
+REMARK    3  A    between atoms: C_3  and  C_4
+REMARK    4  A    between atoms: C_4  and  C_5
+REMARK    5  A    between atoms: C_5  and  C_6
+REMARK    6  A    between atoms: C_6  and  C_7
+REMARK    7  A    between atoms: C_7  and  C_8
+REMARK    8  A    between atoms: C_8  and  C_9
+REMARK    9  A    between atoms: C_9  and  C_10
+REMARK   10  A    between atoms: C_10  and  O_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -13.237   5.653  26.862  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C   UNL     1     -12.793   6.616  25.756  0.00  0.00    +0.000 C 
+BRANCH   2   3
+ATOM      3  C   UNL     1     -11.329   6.394  25.364  0.00  0.00    +0.000 C 
+BRANCH   3   4
+ATOM      4  C   UNL     1     -10.666   5.327  26.243  0.00  0.00    +0.000 C 
+BRANCH   4   6
+ATOM      5  C   UNL     1      -9.415   3.136  26.172  0.00  0.00    +0.000 C 
+ATOM      6  C   UNL     1      -9.744   4.421  25.426  0.00  0.00    +0.000 C 
+ENDBRANCH   4   6
+ENDBRANCH   3   4
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1   7
+ATOM      7  C   UNL     1     -14.640   5.994  27.376  0.00  0.00    +0.000 C 
+BRANCH   7   8
+ATOM      8  C   UNL     1     -15.705   5.074  26.768  0.00  0.00    +0.000 C 
+BRANCH   8   9
+ATOM      9  C   UNL     1     -15.109   3.736  26.332  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  C   UNL     1     -15.403   2.629  27.339  0.00  0.00    +0.000 C 
+BRANCH  10  11
+ATOM     11  O   UNL     1     -15.259   1.359  26.717  0.00  0.00    +0.000 OA
+ATOM     12  H   UNL     1     -14.890   0.749  27.379  0.00  0.00    +0.000 HD
+ENDBRANCH  10  11
+ENDBRANCH   9  10
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 9
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:    -3.914      4.210      6.241
+REMARK INTER + INTRA:          -6.350
+REMARK INTER:                  -5.949
+REMARK INTRA:                  -0.401
+REMARK UNBOUND:                -0.491
+REMARK  Name = C:\Users\sofiya chavarekar\OneDrive\Assignment- Module 1\PROJECT(AI-based drug target identification for SDH-related rare disorders)\Data\Ligands\PDB\Ligand_0067.pdb
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  C_3
+REMARK    3  A    between atoms: C_3  and  C_4
+REMARK    4  A    between atoms: C_4  and  C_5
+REMARK    5  A    between atoms: C_5  and  C_6
+REMARK    6  A    between atoms: C_6  and  C_7
+REMARK    7  A    between atoms: C_7  and  C_8
+REMARK    8  A    between atoms: C_8  and  C_9
+REMARK    9  A    between atoms: C_9  and  C_10
+REMARK   10  A    between atoms: C_10  and  O_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -14.466   6.873  26.845  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C   UNL     1     -13.634   6.103  25.814  0.00  0.00    +0.000 C 
+BRANCH   2   3
+ATOM      3  C   UNL     1     -12.705   7.031  25.026  0.00  0.00    +0.000 C 
+BRANCH   3   4
+ATOM      4  C   UNL     1     -11.248   6.564  25.100  0.00  0.00    +0.000 C 
+BRANCH   4   6
+ATOM      5  C   UNL     1      -9.908   4.562  25.855  0.00  0.00    +0.000 C 
+ATOM      6  C   UNL     1     -11.050   5.511  26.191  0.00  0.00    +0.000 C 
+ENDBRANCH   4   6
+ENDBRANCH   3   4
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1   7
+ATOM      7  C   UNL     1     -15.339   7.942  26.181  0.00  0.00    +0.000 C 
+BRANCH   7   8
+ATOM      8  C   UNL     1     -14.944   9.354  26.628  0.00  0.00    +0.000 C 
+BRANCH   8   9
+ATOM      9  C   UNL     1     -15.309  10.399  25.575  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  C   UNL     1     -15.334  11.807  26.158  0.00  0.00    +0.000 C 
+BRANCH  10  11
+ATOM     11  O   UNL     1     -15.782  11.765  27.506  0.00  0.00    +0.000 OA
+ATOM     12  H   UNL     1     -15.316  11.034  27.947  0.00  0.00    +0.000 HD
+ENDBRANCH  10  11
+ENDBRANCH   9  10
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 9
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:    -3.762      2.689      4.662
+REMARK INTER + INTRA:          -6.123
+REMARK INTER:                  -5.357
+REMARK INTRA:                  -0.766
+REMARK UNBOUND:                -0.491
+REMARK  Name = C:\Users\sofiya chavarekar\OneDrive\Assignment- Module 1\PROJECT(AI-based drug target identification for SDH-related rare disorders)\Data\Ligands\PDB\Ligand_0067.pdb
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  C_3
+REMARK    3  A    between atoms: C_3  and  C_4
+REMARK    4  A    between atoms: C_4  and  C_5
+REMARK    5  A    between atoms: C_5  and  C_6
+REMARK    6  A    between atoms: C_6  and  C_7
+REMARK    7  A    between atoms: C_7  and  C_8
+REMARK    8  A    between atoms: C_8  and  C_9
+REMARK    9  A    between atoms: C_9  and  C_10
+REMARK   10  A    between atoms: C_10  and  O_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -15.830   4.969  26.934  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C   UNL     1     -14.757   6.025  27.221  0.00  0.00    +0.000 C 
+BRANCH   2   3
+ATOM      3  C   UNL     1     -14.562   6.972  26.034  0.00  0.00    +0.000 C 
+BRANCH   3   4
+ATOM      4  C   UNL     1     -13.281   6.648  25.258  0.00  0.00    +0.000 C 
+BRANCH   4   6
+ATOM      5  C   UNL     1     -11.173   5.416  25.902  0.00  0.00    +0.000 C 
+ATOM      6  C   UNL     1     -12.059   6.623  26.177  0.00  0.00    +0.000 C 
+ENDBRANCH   4   6
+ENDBRANCH   3   4
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1   7
+ATOM      7  C   UNL     1     -15.209   3.639  26.493  0.00  0.00    +0.000 C 
+BRANCH   7   8
+ATOM      8  C   UNL     1     -13.932   3.324  27.279  0.00  0.00    +0.000 C 
+BRANCH   8   9
+ATOM      9  C   UNL     1     -14.116   2.106  28.185  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  C   UNL     1     -15.133   1.124  27.616  0.00  0.00    +0.000 C 
+BRANCH  10  11
+ATOM     11  O   UNL     1     -14.484  -0.087  27.251  0.00  0.00    +0.000 OA
+ATOM     12  H   UNL     1     -13.536   0.106  27.152  0.00  0.00    +0.000 HD
+ENDBRANCH  10  11
+ENDBRANCH   9  10
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 9
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:    -3.486      1.519      3.060
+REMARK INTER + INTRA:          -5.710
+REMARK INTER:                  -5.134
+REMARK INTRA:                  -0.576
+REMARK UNBOUND:                -0.491
+REMARK  Name = C:\Users\sofiya chavarekar\OneDrive\Assignment- Module 1\PROJECT(AI-based drug target identification for SDH-related rare disorders)\Data\Ligands\PDB\Ligand_0067.pdb
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  C_3
+REMARK    3  A    between atoms: C_3  and  C_4
+REMARK    4  A    between atoms: C_4  and  C_5
+REMARK    5  A    between atoms: C_5  and  C_6
+REMARK    6  A    between atoms: C_6  and  C_7
+REMARK    7  A    between atoms: C_7  and  C_8
+REMARK    8  A    between atoms: C_8  and  C_9
+REMARK    9  A    between atoms: C_9  and  C_10
+REMARK   10  A    between atoms: C_10  and  O_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -14.080   4.400  26.775  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C   UNL     1     -15.515   4.043  26.371  0.00  0.00    +0.000 C 
+BRANCH   2   3
+ATOM      3  C   UNL     1     -16.533   4.526  27.408  0.00  0.00    +0.000 C 
+BRANCH   3   4
+ATOM      4  C   UNL     1     -16.231   5.955  27.871  0.00  0.00    +0.000 C 
+BRANCH   4   6
+ATOM      5  C   UNL     1     -16.084   8.036  26.448  0.00  0.00    +0.000 C 
+ATOM      6  C   UNL     1     -17.008   6.987  27.052  0.00  0.00    +0.000 C 
+ENDBRANCH   4   6
+ENDBRANCH   3   4
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1   7
+ATOM      7  C   UNL     1     -13.470   5.439  25.830  0.00  0.00    +0.000 C 
+BRANCH   7   8
+ATOM      8  C   UNL     1     -12.355   6.240  26.511  0.00  0.00    +0.000 C 
+BRANCH   8   9
+ATOM      9  C   UNL     1     -11.074   6.240  25.677  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  C   UNL     1     -10.347   4.902  25.754  0.00  0.00    +0.000 C 
+BRANCH  10  11
+ATOM     11  O   UNL     1      -9.604   4.686  24.561  0.00  0.00    +0.000 OA
+ATOM     12  H   UNL     1      -9.027   5.459  24.431  0.00  0.00    +0.000 HD
+ENDBRANCH  10  11
+ENDBRANCH   9  10
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 9
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:    -3.452      3.657      5.386
+REMARK INTER + INTRA:          -5.659
+REMARK INTER:                  -5.206
+REMARK INTRA:                  -0.453
+REMARK UNBOUND:                -0.491
+REMARK  Name = C:\Users\sofiya chavarekar\OneDrive\Assignment- Module 1\PROJECT(AI-based drug target identification for SDH-related rare disorders)\Data\Ligands\PDB\Ligand_0067.pdb
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  C_3
+REMARK    3  A    between atoms: C_3  and  C_4
+REMARK    4  A    between atoms: C_4  and  C_5
+REMARK    5  A    between atoms: C_5  and  C_6
+REMARK    6  A    between atoms: C_6  and  C_7
+REMARK    7  A    between atoms: C_7  and  C_8
+REMARK    8  A    between atoms: C_8  and  C_9
+REMARK    9  A    between atoms: C_9  and  C_10
+REMARK   10  A    between atoms: C_10  and  O_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -13.258   6.840  25.604  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C   UNL     1     -13.905   8.038  26.306  0.00  0.00    +0.000 C 
+BRANCH   2   3
+ATOM      3  C   UNL     1     -15.413   8.101  26.048  0.00  0.00    +0.000 C 
+BRANCH   3   4
+ATOM      4  C   UNL     1     -15.959   9.520  26.240  0.00  0.00    +0.000 C 
+BRANCH   4   6
+ATOM      5  C   UNL     1     -15.504  11.966  25.808  0.00  0.00    +0.000 C 
+ATOM      6  C   UNL     1     -14.895  10.576  25.936  0.00  0.00    +0.000 C 
+ENDBRANCH   4   6
+ENDBRANCH   3   4
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1   7
+ATOM      7  C   UNL     1     -12.451   5.981  26.583  0.00  0.00    +0.000 C 
+BRANCH   7   8
+ATOM      8  C   UNL     1     -12.920   4.521  26.574  0.00  0.00    +0.000 C 
+BRANCH   8   9
+ATOM      9  C   UNL     1     -14.343   4.385  27.115  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  C   UNL     1     -14.416   4.698  28.605  0.00  0.00    +0.000 C 
+BRANCH  10  11
+ATOM     11  O   UNL     1     -14.624   3.501  29.342  0.00  0.00    +0.000 OA
+ATOM     12  H   UNL     1     -14.018   2.829  28.987  0.00  0.00    +0.000 HD
+ENDBRANCH  10  11
+ENDBRANCH   9  10
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 9
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:    -3.383      4.238      6.501
+REMARK INTER + INTRA:          -5.556
+REMARK INTER:                  -5.205
+REMARK INTRA:                  -0.351
+REMARK UNBOUND:                -0.491
+REMARK  Name = C:\Users\sofiya chavarekar\OneDrive\Assignment- Module 1\PROJECT(AI-based drug target identification for SDH-related rare disorders)\Data\Ligands\PDB\Ligand_0067.pdb
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  C_3
+REMARK    3  A    between atoms: C_3  and  C_4
+REMARK    4  A    between atoms: C_4  and  C_5
+REMARK    5  A    between atoms: C_5  and  C_6
+REMARK    6  A    between atoms: C_6  and  C_7
+REMARK    7  A    between atoms: C_7  and  C_8
+REMARK    8  A    between atoms: C_8  and  C_9
+REMARK    9  A    between atoms: C_9  and  C_10
+REMARK   10  A    between atoms: C_10  and  O_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -15.621   6.373  27.563  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C   UNL     1     -14.892   5.446  26.584  0.00  0.00    +0.000 C 
+BRANCH   2   3
+ATOM      3  C   UNL     1     -13.371   5.570  26.709  0.00  0.00    +0.000 C 
+BRANCH   3   4
+ATOM      4  C   UNL     1     -12.845   6.815  25.987  0.00  0.00    +0.000 C 
+BRANCH   4   6
+ATOM      5  C   UNL     1     -10.793   5.345  26.016  0.00  0.00    +0.000 C 
+ATOM      6  C   UNL     1     -11.444   6.584  25.419  0.00  0.00    +0.000 C 
+ENDBRANCH   4   6
+ENDBRANCH   3   4
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1   7
+ATOM      7  C   UNL     1     -16.433   7.443  26.827  0.00  0.00    +0.000 C 
+BRANCH   7   8
+ATOM      8  C   UNL     1     -16.893   8.556  27.774  0.00  0.00    +0.000 C 
+BRANCH   8   9
+ATOM      9  C   UNL     1     -15.918   9.733  27.773  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  C   UNL     1     -16.259  10.754  28.852  0.00  0.00    +0.000 C 
+BRANCH  10  11
+ATOM     11  O   UNL     1     -15.297  10.695  29.897  0.00  0.00    +0.000 OA
+ATOM     12  H   UNL     1     -14.742  11.491  29.829  0.00  0.00    +0.000 HD
+ENDBRANCH  10  11
+ENDBRANCH   9  10
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 9
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:    -3.312      3.024      4.930
+REMARK INTER + INTRA:          -5.450
+REMARK INTER:                  -4.649
+REMARK INTRA:                  -0.801
+REMARK UNBOUND:                -0.491
+REMARK  Name = C:\Users\sofiya chavarekar\OneDrive\Assignment- Module 1\PROJECT(AI-based drug target identification for SDH-related rare disorders)\Data\Ligands\PDB\Ligand_0067.pdb
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  C_3
+REMARK    3  A    between atoms: C_3  and  C_4
+REMARK    4  A    between atoms: C_4  and  C_5
+REMARK    5  A    between atoms: C_5  and  C_6
+REMARK    6  A    between atoms: C_6  and  C_7
+REMARK    7  A    between atoms: C_7  and  C_8
+REMARK    8  A    between atoms: C_8  and  C_9
+REMARK    9  A    between atoms: C_9  and  C_10
+REMARK   10  A    between atoms: C_10  and  O_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -16.079   6.079  28.287  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C   UNL     1     -17.075   6.540  27.217  0.00  0.00    +0.000 C 
+BRANCH   2   3
+ATOM      3  C   UNL     1     -16.746   7.944  26.701  0.00  0.00    +0.000 C 
+BRANCH   3   4
+ATOM      4  C   UNL     1     -16.148   8.823  27.804  0.00  0.00    +0.000 C 
+BRANCH   4   6
+ATOM      5  C   UNL     1     -15.274   9.941  25.716  0.00  0.00    +0.000 C 
+ATOM      6  C   UNL     1     -15.450  10.054  27.224  0.00  0.00    +0.000 C 
+ENDBRANCH   4   6
+ENDBRANCH   3   4
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1   7
+ATOM      7  C   UNL     1     -15.123   5.013  27.744  0.00  0.00    +0.000 C 
+BRANCH   7   8
+ATOM      8  C   UNL     1     -13.762   5.610  27.368  0.00  0.00    +0.000 C 
+BRANCH   8   9
+ATOM      9  C   UNL     1     -13.680   5.925  25.874  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  C   UNL     1     -12.822   7.154  25.599  0.00  0.00    +0.000 C 
+BRANCH  10  11
+ATOM     11  O   UNL     1     -12.945   7.536  24.236  0.00  0.00    +0.000 OA
+ATOM     12  H   UNL     1     -12.073   7.844  23.937  0.00  0.00    +0.000 HD
+ENDBRANCH  10  11
+ENDBRANCH   9  10
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 9
+ENDMDL
